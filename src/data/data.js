@@ -49,7 +49,7 @@ export const reasons = [
   },
   {
     id: 13,
-    text: "Uniport was so much better for me because you are part of it.!",
+    text: "Uniport was so much better for me because you were a part of it.!",
   },
   {
     id: 14,
